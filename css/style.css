@@ -96,6 +96,10 @@ footer {
     background: var(--footerBackground);
     color: var(--footerTextColor);
     padding: 2rem var(--containerPadding);
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
     text-align: center;
 }
 
